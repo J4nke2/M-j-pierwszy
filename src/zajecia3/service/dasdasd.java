@@ -5,6 +5,5 @@ package zajecia3.service;
  */
 public class dasdasd {
     public static void main(String[] args) {
-
     }
 }
